@@ -1,0 +1,6 @@
+{
+  "name": "@advjs/assets",
+  "scripts": {
+    "lfs": "git lfs pull"
+  }
+}
